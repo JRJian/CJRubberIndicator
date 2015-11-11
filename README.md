@@ -6,6 +6,12 @@ dribbble 的效果图
 
 <img src="https://d13yacurqjgara.cloudfront.net/users/303234/screenshots/2090803/pageindicator.gif" width="400px" height="300px" />
 
+---
+
+app 运行效果图
+
+![image](https://github.com/JRJian/CJRubberIndicator/master/Image/rubberIndicator.gif)
+
 * Designed by [Valentyn Khenkin](https://dribbble.com/shots/2090803-Rubber-Indicator?list=searches&tag=indicator&offset=7)
 * [Swift版](https://github.com/TBXark/TKRubberIndicator)
 * [Web版](http://codepen.io/machycek/full/eNvyjb/)
