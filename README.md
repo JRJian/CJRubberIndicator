@@ -10,7 +10,7 @@ dribbble 的效果图
 
 app 运行效果图
 
-![image](https://github.com/JRJian/CJRubberIndicator/master/Image/rubberIndicator.gif)
+![image](https://github.com/JRJian/CJRubberIndicator/blob/master/Image/rubberIndicator.gif)
 
 * Designed by [Valentyn Khenkin](https://dribbble.com/shots/2090803-Rubber-Indicator?list=searches&tag=indicator&offset=7)
 * [Swift版](https://github.com/TBXark/TKRubberIndicator)
